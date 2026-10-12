@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.counter-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 320px;
+    text-align: center;
+}
+
+#counter-value {
+    font-size: 48px;
+    margin: 10px 0;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.positive {
+    color: green;
+}
+
+.negative {
+    color: red;
+}
